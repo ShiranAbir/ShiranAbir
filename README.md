@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiran Abir</h1>
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
-- 🔭 I’m currently working on [randomize-data](https://www.npmjs.com/package/randomize-data)
+- 🔭 My latest NPM Package: [randomize-data](https://www.npmjs.com/package/randomize-data)
 
 - 👨‍💻 My latest project is available at [https://taskndrop.herokuapp.com](https://taskndrop.herokuapp.com)
 
