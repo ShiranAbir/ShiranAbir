@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shiran Abir</h1>
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
-- 🔭 My latest NPM Packages: 
-  * [randomize-data](https://www.npmjs.com/package/randomize-data)
-  * [randomize-person](https://www.npmjs.com/package/randomize-person)
+## 🔭 My latest npm packages: 
+[![randomize-person](https://img.shields.io/static/v1?label=package&message=randomize-person&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-person)](https://www.npmjs.com/package/randomize-person)
+[![npm](https://img.shields.io/npm/dt/randomize-person?label=downloads)](https://www.npmjs.com/package/randomize-person)  
 
-- 👨‍💻 My latest project is available at [https://taskndrop.herokuapp.com](https://taskndrop.herokuapp.com)
+[![randomize-data](https://img.shields.io/static/v1?label=package&message=randomize-data&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-data)](https://www.npmjs.com/package/randomize-data)
+[![npm](https://img.shields.io/npm/dt/randomize-data?label=downloads)](https://www.npmjs.com/package/randomize-data)  
+
+## 👨‍💻 My latest project
+[![taskndrop](https://img.shields.io/static/v1?label=Vite&message=TaskNDrop&color=41B883&logo=vue.js&link=https://taskndrop.onrender.com)](https://taskndrop.onrender.com)  
+[TaskNDrop](https://taskndrop.onrender.com) A Monday.com like application for task management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
