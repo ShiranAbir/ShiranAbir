@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shiran Abir</h1>
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
-## 🔭 My latest npm packages: 
+## 🔭 My latest npm packages 
 [![randomize-person](https://img.shields.io/static/v1?label=package&message=randomize-person&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-person)](https://www.npmjs.com/package/randomize-person)
 [![npm](https://img.shields.io/npm/dt/randomize-person?label=downloads)](https://www.npmjs.com/package/randomize-person)  
 
 [![randomize-data](https://img.shields.io/static/v1?label=package&message=randomize-data&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-data)](https://www.npmjs.com/package/randomize-data)
 [![npm](https://img.shields.io/npm/dt/randomize-data?label=downloads)](https://www.npmjs.com/package/randomize-data)  
 
-## 👨‍💻 My latest project
+## 👨‍💻 My latest projects
+[![random-person-generator](https://img.shields.io/static/v1?label=Vite&message=Random-Person-Generator&color=41B883&logo=vue.js&link=https://shiranabir.github.io/Random-Person-Generator/)](https://shiranabir.github.io/Random-Person-Generator/)  
+[Random-Person-Generator](https://shiranabir.github.io/Random-Person-Generator/) Displays a random person and allows to copy its JSON data.
+
 [![taskndrop](https://img.shields.io/static/v1?label=Vite&message=TaskNDrop&color=41B883&logo=vue.js&link=https://taskndrop.onrender.com)](https://taskndrop.onrender.com)  
 [TaskNDrop](https://taskndrop.onrender.com) A Monday.com like application for task management.
 
