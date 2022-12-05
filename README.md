@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
 ## 🔭 My latest npm packages 
-[![randomize-person](https://img.shields.io/static/v1?label=package&message=randomize-person&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-person)](https://www.npmjs.com/package/randomize-person)
+[![randomize-person](https://img.shields.io/static/v1?label=package&message=randomize-person&color=blue&logo=typescript&link=https://www.npmjs.com/package/randomize-person)](https://www.npmjs.com/package/randomize-person)
 [![npm](https://img.shields.io/npm/dt/randomize-person?label=downloads)](https://www.npmjs.com/package/randomize-person)  
 
 [![randomize-data](https://img.shields.io/static/v1?label=package&message=randomize-data&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-data)](https://www.npmjs.com/package/randomize-data)
