@@ -16,7 +16,7 @@
 [![randomize-data](https://img.shields.io/static/v1?label=package&message=randomize-data&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-data)](https://www.npmjs.com/package/randomize-data)
 [![npm](https://img.shields.io/npm/dt/randomize-data?label=downloads)](https://www.npmjs.com/package/randomize-data)  
 
-## 🏭 My previous projects
+## ⚡ My previous projects
 [![random-person-generator](https://img.shields.io/static/v1?label=Vite&message=Random-Person-Generator&color=41B883&logo=vue.js&link=https://shiranabir.github.io/Random-Person-Generator/)](https://shiranabir.github.io/Random-Person-Generator/)  
 [Random-Person-Generator](https://shiranabir.github.io/Random-Person-Generator/) Displays a random person and allows to copy its JSON data.
 
