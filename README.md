@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shiran Abir</h1>
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
+## 👨‍💻 My latest project
+[![ShiranAbir/chaty](https://img.shields.io/static/v1?label=Electron&message=ShiranAbir/chaty&color=41B883&logo=vue.js&link=https://github.com/ShiranAbir/chaty)](https://github.com/ShiranAbir/chaty)  
+[ShiranAbir/chaty](https://github.com/ShiranAbir/chaty) Electron bot that you can use to interact with ChatGPT.
+
 ## 🏭 Open-Source Contributions
 [![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
 [brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
@@ -12,7 +16,7 @@
 [![randomize-data](https://img.shields.io/static/v1?label=package&message=randomize-data&color=239120&logo=nodedotjs&link=https://www.npmjs.com/package/randomize-data)](https://www.npmjs.com/package/randomize-data)
 [![npm](https://img.shields.io/npm/dt/randomize-data?label=downloads)](https://www.npmjs.com/package/randomize-data)  
 
-## 👨‍💻 My latest projects
+## 👨‍💻 My previous projects
 [![random-person-generator](https://img.shields.io/static/v1?label=Vite&message=Random-Person-Generator&color=41B883&logo=vue.js&link=https://shiranabir.github.io/Random-Person-Generator/)](https://shiranabir.github.io/Random-Person-Generator/)  
 [Random-Person-Generator](https://shiranabir.github.io/Random-Person-Generator/) Displays a random person and allows to copy its JSON data.
 
