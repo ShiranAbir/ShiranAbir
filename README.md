@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
 ## 👨‍💻 My latest project
-[![ShiranAbir/chaty](https://img.shields.io/static/v1?label=Electron&message=ShiranAbir/chaty&color=41B883&logo=vue.js&link=https://github.com/ShiranAbir/chaty)](https://github.com/ShiranAbir/chaty)  
+[![ShiranAbir/chaty](https://img.shields.io/static/v1?label=Electron&message=ShiranAbir/chaty&color=41B883&logo=electron&link=https://github.com/ShiranAbir/chaty)](https://github.com/ShiranAbir/chaty)  
 [ShiranAbir/chaty](https://github.com/ShiranAbir/chaty) Electron bot to interact with ChatGPT. Written in Vue.js v3, Node.js v18 and TypeScript.
 
 ## 🏭 Open-Source Contributions
-[![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
+[![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=electron&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
 [brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
 
 ## 🔭 My latest npm packages 
