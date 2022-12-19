@@ -3,7 +3,7 @@
 
 ## 👨‍💻 My latest project
 [![ShiranAbir/chaty](https://img.shields.io/static/v1?label=Electron&message=ShiranAbir/chaty&color=41B883&logo=vue.js&link=https://github.com/ShiranAbir/chaty)](https://github.com/ShiranAbir/chaty)  
-[ShiranAbir/chaty](https://github.com/ShiranAbir/chaty) Electron bot that you can use to interact with ChatGPT.
+[ShiranAbir/chaty](https://github.com/ShiranAbir/chaty) Electron bot to interact with ChatGPT. Written in Vue.js v3, Node.js v18 and TypeScript.
 
 ## 🏭 Open-Source Contributions
 [![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
