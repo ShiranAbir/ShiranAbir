@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shiran Abir</h1>
 <h3 align="center">A passionate Frontend/Full-Stack developer</h3>
 
-## 👨‍💻 My latest project
+## 👨‍💻 My latest projects
+[![ShiranAbir/NotifyPal](https://img.shields.io/static/v1?label=React%20Native&message=ShiranAbir/NotifyPal&color=2361DA&logo=react&link=https://github.com/ShiranAbir/NotifyPal)](https://github.com/ShiranAbir/NotifyPal)  
+[ShiranAbir/NotifyPal](https://github.com/ShiranAbir/NotifyPal) A React Native notifications manager that seamlessly integrates with your device's date picker and calendar.
+
 [![ShiranAbir/chaty](https://img.shields.io/static/v1?label=Electron&message=ShiranAbir/chaty&color=41B883&logo=electron&link=https://github.com/ShiranAbir/chaty)](https://github.com/ShiranAbir/chaty)  
 [ShiranAbir/chaty](https://github.com/ShiranAbir/chaty) Electron bot to interact with ChatGPT. Written in Vue.js v3, Node.js v18 and TypeScript.
 
